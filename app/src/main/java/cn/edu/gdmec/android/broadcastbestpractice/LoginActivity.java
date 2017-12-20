@@ -8,5 +8,6 @@ import android.widget.EditText;
 
 public class LoginActivity extends BaseActivity{
     private EditText accountEdit;
+    private EditText passwordEdit;
 
 }
