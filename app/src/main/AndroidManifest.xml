@@ -3,7 +3,6 @@
           package="cn.edu.gdmec.android.broadcastbestpractice"
     android:versionCode="1"
     android:versionName="1.0">
-
     <uses-sdk
         android:maxSdkVersion="14"
         android:targetSdkVersion="19"/>
